@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(./bg_index.jpg);
+    background-image: url(./Image/bg_index.jpg);
     height: 90vh;
     background-position: center;
     background-repeat: no-repeat;
